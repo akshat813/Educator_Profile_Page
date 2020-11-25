@@ -18,7 +18,7 @@
   String penTablet = "Pen and Tablet";
   List<String> ptSelect = ["Pen and Tablet", "Yes", "No"];
   String citySelect="Select city";
-  List<String> city=["Select city","city","city"];
+  List<String> city=["Select city","city1","city2"];
   String documentSelect = "Verification Document";
   List<String> verificationDocument = [
     "Verification Document",
